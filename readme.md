@@ -1,5 +1,13 @@
 <h1 align="center">🚀 16-Bit Pipelined CPU in Verilog</h1>
 <p align="center">
+
+  **Author: Anubhav**  
+
+[![Language](https://img.shields.io/badge/Language-Verilog-blue)](https://www.verilog.com/)  
+[![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/)  
+[![Simulation](https://img.shields.io/badge/Tool-GTKWave-orange)](https://gtkwave.sourceforge.net/)  
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) 
+
 A simple yet powerful CPU design demonstrating pipelined architecture and instruction-level parallelism.
 
 📌 Overview
