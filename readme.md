@@ -1,5 +1,7 @@
 <h1 align="center">🚀 16-Bit Pipelined CPU in Verilog</h1>
 <p align="center">
+A simple yet powerful CPU design demonstrating pipelined architecture and instruction-level parallelism.
+
 
   **Author: Anubhav**  
 
@@ -8,7 +10,6 @@
 [![Simulation](https://img.shields.io/badge/Tool-GTKWave-orange)](https://gtkwave.sourceforge.net/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) 
 
-A simple yet powerful CPU design demonstrating pipelined architecture and instruction-level parallelism.
 
 📌 Overview
 
@@ -66,7 +67,7 @@ Explanation:
 
 🔹 GTKWave Output
 
-![GTKWave](CPU(GTK).png)
+![GTKWave](cpu(gtk).png)
 
 Shows:
 
@@ -79,7 +80,7 @@ Shows:
 
 🔹 VS Code VCD Waveform
 
-[VS Code Waveform](CPU(VS).png)
+[VS Code Waveform](cpu(vs).png)
 
 Shows:
 
@@ -120,14 +121,3 @@ gtkwave cpu16_pipeline.vcd
 - Icarus Verilog
 - GTKWave
 
----
-
-👨‍💻 Author
-
-Anubhav
-
----
-
-📜 License
-
-This project is licensed under the MIT License.
