@@ -80,7 +80,7 @@ Shows:
 
 🔹 VS Code VCD Waveform
 
-[VS Code Waveform](cpu(vs).png)
+![VS Code Waveform](cpu(vs).png)
 
 Shows:
 
@@ -93,7 +93,9 @@ Shows:
 🚀 How to Run
 
 iverilog -o cpu.out src/*.v tb/testbench.v
+
 vvp cpu.out
+
 gtkwave cpu16_pipeline.vcd
 
 ---
