@@ -1,6 +1,6 @@
 <h1 align="center">🚀 16-Bit Pipelined CPU in Verilog</h1>
 <p align="center">
-A simple yet powerful CPU design demonstrating pipelined architecture and instruction-level parallelism..
+A simple yet powerful CPU design demonstrating pipelined architecture and instruction-level parallelism.
 
 
   **Author: Anubhav**  
